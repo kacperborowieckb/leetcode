@@ -1,0 +1,1 @@
+console.log('LeetCode solutions for algorithm and data structured course')
